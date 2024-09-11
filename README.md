@@ -1,6 +1,3 @@
-Here's a detailed `README.md` file for your GitHub repository:
-
-```markdown
 # Sentiment Analysis on Review Data
 
 ## Overview
