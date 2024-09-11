@@ -104,11 +104,11 @@ The model demonstrated improved performance with balanced class distribution and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis.git
+   git clone https://github.com/Rishav123raj/MachineLearnnigCA2.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd sentiment-analysis
+   cd MachineLearnnigCA2
    ```
 3. Install the required packages:
    ```bash
